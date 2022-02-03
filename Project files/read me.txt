@@ -1,0 +1,4 @@
+shipment.cvs is used for the add shipment in the UI
+barcode pictures were the ones that scan the best on webcam.
+1. Run data-load.py forst to initialize database
+2. Run main to interact with database.
